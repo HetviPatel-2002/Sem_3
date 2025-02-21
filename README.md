@@ -1,17 +1,17 @@
 
 # 📚 Sem_3 - Third Semester Resources
 
-Welcome to the **Sem_3** repository! This repository houses all the study materials, notes, and assignments for the third semester. It's organized by subject for easy navigation.
+Welcome to the **Sem_3** repository! This repository houses all the study materials, notes, and assignments for the third semester primarily sourced from [**Darshan University**](https://www.darshan.ac.in/gtu-study-material). It's organized by subject for easy navigation.
 
 ## 📁 Repository Structure
 
-- [**DBMS/**: Database Management Systems](https://github.com/HetviPatel-2002/Sem_3/tree/main/DBMS)
-- [**DE/**: Design Engineering](https://github.com/HetviPatel-2002/Sem_3/tree/main/DE)
-- [**DF/**: Digital Fundamentals](https://github.com/HetviPatel-2002/Sem_3/tree/main/DF)
-- [**DS/**: Data Structures](https://github.com/HetviPatel-2002/Sem_3/tree/main/DS)
-- [**ETC/**: Effective Technical Communication](https://github.com/HetviPatel-2002/Sem_3/tree/main/ETC)
-- [**IC/**: Indian Constitution](https://github.com/HetviPatel-2002/Sem_3/tree/main/IC)
-- [**PS/**: Probability and Statistics](https://github.com/HetviPatel-2002/Sem_3/tree/main/PS)
+- 📁[**DBMS/**: Database Management Systems](https://github.com/HetviPatel-2002/Sem_3/tree/main/DBMS)
+- 📁[**DE/**: Design Engineering](https://github.com/HetviPatel-2002/Sem_3/tree/main/DE)
+- 📁[**DF/**: Digital Fundamentals](https://github.com/HetviPatel-2002/Sem_3/tree/main/DF)
+- 📁[**DS/**: Data Structures](https://github.com/HetviPatel-2002/Sem_3/tree/main/DS)
+- 📁[**ETC/**: Effective Technical Communication](https://github.com/HetviPatel-2002/Sem_3/tree/main/ETC)
+- 📁[**IC/**: Indian Constitution](https://github.com/HetviPatel-2002/Sem_3/tree/main/IC)
+- 📁[**PS/**: Probability and Statistics](https://github.com/HetviPatel-2002/Sem_3/tree/main/PS)
 
 *(Each folder contains relevant lecture notes, assignments, and additional resources.)*
 
